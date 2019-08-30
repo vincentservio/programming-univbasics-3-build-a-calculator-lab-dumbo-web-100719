@@ -28,6 +28,7 @@ end
 
 
 def square_root(num)
-  p sqrt(num)
+  root = sqrt(num)
+  p root
 
 end
