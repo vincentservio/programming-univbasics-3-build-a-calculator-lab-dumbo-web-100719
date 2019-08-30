@@ -28,6 +28,6 @@ end
 
 
 def square_root(num)
-  p square_root.sqrt(num)
+  p sqrt(num)
 
 end
