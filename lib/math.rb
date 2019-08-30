@@ -29,5 +29,5 @@ end
 
 def square_root(num)
   p square_root.sqrt(num)
-  p root
+
 end
